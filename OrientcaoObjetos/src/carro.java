@@ -1,5 +1,5 @@
 
-class Carro {
+class Carro extends Veiculo {
 
     String cor;
     String modelo;
