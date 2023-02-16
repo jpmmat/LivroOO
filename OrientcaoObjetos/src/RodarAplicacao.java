@@ -3,7 +3,7 @@ public class RodarAplicacao {
         
         Veiculo caminhao = new Caminhao();
         Veiculo moto = new Moto();
-
+        Veiculo carro = new Carro();
 
 
         Carro carro1 = new Carro();
